@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=Java" width="100" height="100" alt="Java" />
+<img src="https://skillicons.dev/icons?i=java" width="100" height="100" alt="Java" />
 <br><strong>Flutter</strong>
 </td>
 <td width="400" align="left">
