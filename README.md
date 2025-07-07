@@ -24,7 +24,6 @@
 
 ### 👋 **Hi, I'm gqrshy!**
 🚀 **Java Developer** passionate about minecraft
-
 🌍 **Location:** Japan 🇯🇵  
 ☕ **Powered by:** toypoodle
 🎯 **Goal:** Creating amazing user experiences  
