@@ -17,17 +17,16 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
+<img src="https://skillicons.dev/icons?i=Java" width="100" height="100" alt="Java" />
 <br><strong>Flutter</strong>
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+### 👋 **Hi, I'm gqrshy!**
+🚀 **Java Developer** passionate about minecraft
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
+☕ **Powered by:** toypoodle
 🎯 **Goal:** Creating amazing user experiences  
 
 </td>
@@ -76,12 +75,6 @@
 </td>
 </tr>
 </table>
-
-## 🏆 **GitHub Trophies (Commits)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
 
 ## 💭 **Random Dev Quote**
 
