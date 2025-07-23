@@ -23,10 +23,8 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm gqrshy!**
-🚀 **Java Developer** passionate about minecraft
-🌍 **Location:** Japan 🇯🇵  
-☕ **Powered by:** toypoodle
-🎯 **Goal:** Creating amazing user experiences  
+🚀 **Java Developer** passionate about minecraft<br>
+🌍 **Location:** Japan 🇯🇵<br> 
 
 </td>
 </tr>
