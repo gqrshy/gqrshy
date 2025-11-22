@@ -42,31 +42,31 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gqrshy&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-## 🛠️ **Tech Stack**
+##**Tech Stack**
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **MC Development**
+###**MC Development**
 <img src="https://skillicons.dev/icons?i=java,kotlin" />
 
-### ☁️  **Backend as a Service (BaaS)**
+###**Backend as a Service (BaaS)**
 <img src="https://skillicons.dev/icons?i=firebase" />
 
-### 🔧  **Development Tools**
+###**Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
+###**Database**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
 
-### 🎨  **Design**
+###**Design**
 <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
-### 💻  **Languages & Frameworks**
+###**Languages & Frameworks**
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker" />
 
 </td>
