@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+gqrshy+%F0%9F%91%8B;Java+Developer+%F0%9F%9A%80;Plugin+Mod+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-## 🌟 **About Me**
+## **About Me**
 
 <div align="center">
 
@@ -23,8 +23,8 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm gqrshy!**
-🚀 **Java Developer** passionate about minecraft<br>
-🌍 **Location:** Japan 🇯🇵<br> 
+**Java Developer** passionate about minecraft<br>
+**Location:** Japan 🇯🇵<br> 
 
 </td>
 </tr>
@@ -42,31 +42,31 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gqrshy&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-## 🛠️ **Tech Stack**
+## **Tech Stack**
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **MC Development**
+### **MC Development**
 <img src="https://skillicons.dev/icons?i=java,kotlin" />
 
-### ☁️  **Backend as a Service (BaaS)**
+### **Backend as a Service (BaaS)**
 <img src="https://skillicons.dev/icons?i=firebase" />
 
-### 🔧  **Development Tools**
+### **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
+### **Database**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
 
-### 🎨  **Design**
+### **Design**
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 
-### 💻  **Languages & Frameworks**
+### **Languages & Frameworks**
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker" />
 
 </td>
